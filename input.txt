@@ -1,0 +1,14 @@
+kem_che_baka
+lakh_baka 'Hello, World!';
+        aa_che_baka d= 20;
+jya_sudhi_baka(b<5)
+{
+	lakh_baka b;
+	jo_baka(b==a){
+	   lakh_baka 'b=a';
+}
+nahi_to_baka{
+	lakh_baka 'b!=a';
+   }
+}
+avje_baka
